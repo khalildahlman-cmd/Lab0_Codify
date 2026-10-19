@@ -1,3 +1,3 @@
-Hello this is conflict 1
+Hello this is conflict2
 
-#Conflict
+#My Lab
