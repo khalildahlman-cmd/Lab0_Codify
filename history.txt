@@ -1,0 +1,3 @@
+echo >> "Hello Bash!"
+# Write 200 most recent bash commands to history.txt
+history | tail -n 200 >> history.txt
